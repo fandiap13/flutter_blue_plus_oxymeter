@@ -1,4 +1,4 @@
-# flutter_blue_latihan
+# Flutter Blue Plus Oxymeter
 
 Program untuk mengambil data dari sensor Pulse Oxymeter FS20 melalui bluetooth.
 
