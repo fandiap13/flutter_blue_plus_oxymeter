@@ -1,6 +1,6 @@
 # flutter_blue_latihan
 
-Program untuk mengambil data dari sensor Pulse Oxymeter FS20 menggunakan bluetooth.
+Program untuk mengambil data dari sensor Pulse Oxymeter FS20 melalui bluetooth.
 
 ## Getting Started
 
