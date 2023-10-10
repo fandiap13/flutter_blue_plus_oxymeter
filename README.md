@@ -1,6 +1,6 @@
 # flutter_blue_latihan
 
-A new Flutter project.
+Program untuk mengambil data dari sensor Pulse Oxymeter FS20 menggunakan bluetooth.
 
 ## Getting Started
 
