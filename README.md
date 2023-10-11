@@ -2,7 +2,7 @@
 
 Program untuk mengambil data dari sensor Pulse Oxymeter FS20 melalui bluetooth.
 
-### Screnshoot Hasil 
+## Screnshoot Hasil 
 
 <p align='center'>
   <img src="https://github.com/fandiap13/flutter_blue_plus_oxymeter/assets/75985790/53b7d592-62ef-41af-8a27-85bfa28b840f" alt="Image" title="Home Page" width=300 />
